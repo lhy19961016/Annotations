@@ -1,6 +1,6 @@
 Established By Zotero
 
-The order of the documents in the README matches the order of the documents on the pdf.
+The order of the articles in the README matches the order of the articles on the PDF.
 
 [1]A. Kurakin, I. Goodfellow, and S. Bengio, “Adversarial examples in the physical world,” arXiv:1607.02533 [cs, stat], Feb. 2017, Accessed: Nov. 03, 2021. [Online]. Available: http://arxiv.org/abs/1607.02533
 
