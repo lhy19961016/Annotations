@@ -1,5 +1,7 @@
 Established By Zotero
 
+The order of the documents in the README matches the order of the documents on the pdf.
+
 [1]A. Kurakin, I. Goodfellow, and S. Bengio, “Adversarial examples in the physical world,” arXiv:1607.02533 [cs, stat], Feb. 2017, Accessed: Nov. 03, 2021. [Online]. Available: http://arxiv.org/abs/1607.02533
 
 [2]I. J. Goodfellow, J. Shlens, and C. Szegedy, “Explaining and Harnessing Adversarial Examples,” arXiv:1412.6572 [cs, stat], Mar. 2015, Accessed: Nov. 03, 2021. [Online]. Available: http://arxiv.org/abs/1412.6572
