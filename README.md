@@ -6,4 +6,4 @@
 5. Results
 6. Conclusion
 
-All files about annotations are in the file "Annotations_file".
+All files about annotations are in the file "Annotations_File".
