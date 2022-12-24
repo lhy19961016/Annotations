@@ -40,7 +40,7 @@ double Ar[M + 2][N + 2];
 // Exist like A[i][j] = w[i + 1][j] - w[i][j] || w[i][j] - w[i-1][j]
 #pragma dvm array align([i][j] with Aw[i][j]), shadow[1:1][1:1]
 double w[M + 2][N + 2];
-// Exist like A[i][j] = w[i + 1][j] - w[i][j] || w[i][j] - w[i-1][j]
+// Exist like A[i][j] = r[i + 1][j] - r[i][j] || r[i][j] - r[i-1][j]
 #pragma dvm array align([i][j] with Aw[i][j]), shadow[1:1][1:1]
 double r[M + 2][N + 2];
 double u(double x, double y)
