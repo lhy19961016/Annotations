@@ -281,7 +281,7 @@ void calculate_A_B()
     int i, j;
     #pragma dvm region
     {
-    #pragma dvm parallel([i][j] on diff_vec[i][j])
+    #pragma dvm parallel([i][j] on r[i][j])
     for(i = 1; i <= M; i++)
     {
         for (j = 1; j <= N; j++)
